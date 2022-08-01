@@ -1,0 +1,9 @@
+GET http://fictionaluniv.local/wp-json/wp/v2/posts
+
+###
+
+GET http://fictionaluniv.local/wp-json/wp/v2/posts?search=tiktok&type=event
+
+###
+
+GET http://fictionaluniv.local/wp-json/university/v1/search?term=math
